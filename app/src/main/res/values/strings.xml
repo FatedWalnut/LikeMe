@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LikeMe</string>
+    <string-array name="opcoes">
+        <item>Jogos</item>
+        <item>Musicas</item>
+        <item>Filmes</item>
+    </string-array>
+</resources>
