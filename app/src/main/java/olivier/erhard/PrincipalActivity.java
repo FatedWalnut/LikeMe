@@ -20,8 +20,12 @@ public class PrincipalActivity  extends Activity {
                     Intent intent = new Intent(PrincipalActivity.this, GamesCategoryActivity.class);
                     startActivity(intent);
                 }
-                if(position ==1 ){
+                if(position == 1 ){
                     Intent intent = new Intent(PrincipalActivity.this,MusicCategoryActivity.class);
+                    startActivity(intent);
+                }
+                if(position == 2){
+                    Intent intent = new Intent(PrincipalActivity.this, MovieCategoryActivity.class);
                     startActivity(intent);
                 }
             }
