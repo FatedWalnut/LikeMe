@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".GamesCategoryActivity"
-    android:background="@drawable/capav3">
+    android:background="@drawable/capav4">
 
 
     <ListView

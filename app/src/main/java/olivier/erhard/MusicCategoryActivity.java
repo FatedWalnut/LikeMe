@@ -11,7 +11,7 @@ public class MusicCategoryActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.music_category_activity);
-        ArrayAdapter<Games> listAdapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1,Games.games);
+        ArrayAdapter<Music> listAdapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1,Music.music);
         ListView list_musics = (ListView) findViewById(R.id.lista_de_musicas);
         list_musics.setAdapter(listAdapter);
     }
