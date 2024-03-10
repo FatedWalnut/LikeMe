@@ -33,3 +33,6 @@
 ### Exemplo de filme
 
 ![Filmes-CapuzVermelho](https://github.com/FatedWalnut/LikeMe/assets/83483880/6637fb07-1c49-4fe7-b1bc-ff72d4489bfe)
+
+
+# A ideia Basica do aplicativo é apenas ser uma arvore com meus gostos pessoais, e testar as funcionalidades do android
